@@ -12,7 +12,7 @@ The basic policy flow is as follows:
 - **Reflect Message Filter**: This filter returns the set message from above to the requestor.
 
 
-## API Management Version ## API Management Version Compatibility
+## API Management Version Compatibility
 This artefact was successfully tested for the following versions:
 - V7.5.3
 
