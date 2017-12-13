@@ -24,6 +24,10 @@ This artefact was successfully tested for the following versions:
 • There are several options to import this file, including Team Development, REST API, and sample scripted options included with the Axway solution. The simplest way however is to open Policy Studio and select 'File --> Import --> Import Configuration Fragment'.
 ```
 
+Import Dialog:
+
+![alt text](https://github.com/Axway-API-Management-Plus/Random_Number_Generation/blob/master/example/src/importFrag.png "Import Fragment")
+
 ## Usage
 
 ```
@@ -34,6 +38,7 @@ This artefact was successfully tested for the following versions:
 
 Sample output:
 
+![alt text](https://github.com/Axway-API-Management-Plus/Random_Number_Generation/blob/master/example/src/sampleOutput.png "Sample Output")
 
 ## Bug and Caveats
 
