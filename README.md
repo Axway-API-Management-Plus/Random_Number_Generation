@@ -19,8 +19,8 @@ This artefact was successfully tested for the following versions:
 
 ## Install
 
-• Download the randomNumberGenerator*.xml policy file.
-• There are several options to import this file, including Team Development, REST API, and sample scripted options included with the Axway solution. The simplest way however is to open Policy Studio and select 'File --> Import --> Import Configuration Fragment'.
+- Download the randomNumberGenerator*.xml policy file.
+- There are several options to import this file, including Team Development, REST API, and sample scripted options included with the Axway solution. The simplest way however is to open Policy Studio and select 'File --> Import --> Import Configuration Fragment'.
 
 Import Dialog:
 
@@ -28,9 +28,9 @@ Import Dialog:
 
 ## Usage
 
-• Import the RNG policy file.
-• Set up an endpoint to call the policy.
-• Execute the call through a testing tool to view the result.
+- Import the RNG policy file.
+- Set up an endpoint to call the policy.
+- Execute the call through a testing tool to view the result.
 
 Sample output:
 
